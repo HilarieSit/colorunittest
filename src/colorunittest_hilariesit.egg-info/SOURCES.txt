@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/colorunittest/__init__.py
+src/colorunittest/color_unittest.py
+src/colorunittest_hilariesit.egg-info/PKG-INFO
+src/colorunittest_hilariesit.egg-info/SOURCES.txt
+src/colorunittest_hilariesit.egg-info/dependency_links.txt
+src/colorunittest_hilariesit.egg-info/requires.txt
+src/colorunittest_hilariesit.egg-info/top_level.txt
